@@ -1,5 +1,4 @@
-### 👨‍💻 Hi there!
-
+### 👨‍💻 Hi there!👋
 #### I'm a Unity Developer currently involved in game and application projects<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. With experience across various projects, my focus lies in optimizing them. I'm enthusiastic about crafting immersive experiences and tackling new challenges in the dynamic field of game development. I'm open to collaboration and always eager to learn. <br>
 #### Let's team up and create the next gaming masterpiece together!🚀
 
